@@ -1,0 +1,10 @@
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab05\lab5-bibloteka\lab5-bibloteka\obj\Debug\lab5-bibloteka.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab05\lab5-bibloteka\lab5-bibloteka\obj\Debug\lab5_bibloteka.Form1.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab05\lab5-bibloteka\lab5-bibloteka\obj\Debug\lab5_bibloteka.Properties.Resources.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab05\lab5-bibloteka\lab5-bibloteka\obj\Debug\lab5-bibloteka.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab05\lab5-bibloteka\lab5-bibloteka\obj\Debug\lab5-bibloteka.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab5\lab5-bibloteka\lab5-bibloteka\obj\Debug\lab5-bibloteka.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab5\lab5-bibloteka\lab5-bibloteka\obj\Debug\lab5_bibloteka.Form1.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab5\lab5-bibloteka\lab5-bibloteka\obj\Debug\lab5_bibloteka.Properties.Resources.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab5\lab5-bibloteka\lab5-bibloteka\obj\Debug\lab5-bibloteka.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab5\lab5-bibloteka\lab5-bibloteka\obj\Debug\lab5-bibloteka.csproj.CoreCompileInputs.cache

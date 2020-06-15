@@ -1,0 +1,10 @@
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab04\kostka\kostka\bin\Debug\kostka.exe.config
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab04\kostka\kostka\bin\Debug\kostka.exe
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab04\kostka\kostka\bin\Debug\kostka.pdb
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab04\kostka\kostka\obj\Debug\kostka.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab04\kostka\kostka\obj\Debug\kostka.Form1.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab04\kostka\kostka\obj\Debug\kostka.Properties.Resources.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab04\kostka\kostka\obj\Debug\kostka.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab04\kostka\kostka\obj\Debug\kostka.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab04\kostka\kostka\obj\Debug\kostka.exe
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab04\kostka\kostka\obj\Debug\kostka.pdb

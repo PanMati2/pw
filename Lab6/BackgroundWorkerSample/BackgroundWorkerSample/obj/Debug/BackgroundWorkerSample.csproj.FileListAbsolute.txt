@@ -1,0 +1,9 @@
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab6\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab6\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.pdb
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Form1.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Properties.Resources.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.exe
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.pdb

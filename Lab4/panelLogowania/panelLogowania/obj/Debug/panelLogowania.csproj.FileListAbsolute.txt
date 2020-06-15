@@ -1,0 +1,10 @@
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab4\lab04\panelLogowania\panelLogowania\bin\Debug\panelLogowania.exe.config
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab4\lab04\panelLogowania\panelLogowania\bin\Debug\panelLogowania.exe
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab4\lab04\panelLogowania\panelLogowania\bin\Debug\panelLogowania.pdb
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab4\lab04\panelLogowania\panelLogowania\obj\Debug\panelLogowania.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab4\lab04\panelLogowania\panelLogowania\obj\Debug\panelLogowania.Form1.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab4\lab04\panelLogowania\panelLogowania\obj\Debug\panelLogowania.Properties.Resources.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab4\lab04\panelLogowania\panelLogowania\obj\Debug\panelLogowania.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab4\lab04\panelLogowania\panelLogowania\obj\Debug\panelLogowania.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab4\lab04\panelLogowania\panelLogowania\obj\Debug\panelLogowania.exe
+C:\Users\Mati\Desktop\Programowanie wizualne\Lab4\lab04\panelLogowania\panelLogowania\obj\Debug\panelLogowania.pdb

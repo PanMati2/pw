@@ -1,0 +1,20 @@
+C:\Users\Kamil\source\repos\Check_PESEL\Check_PESEL\bin\Debug\Check_PESEL.exe.config
+C:\Users\Kamil\source\repos\Check_PESEL\Check_PESEL\bin\Debug\Check_PESEL.exe
+C:\Users\Kamil\source\repos\Check_PESEL\Check_PESEL\bin\Debug\Check_PESEL.pdb
+C:\Users\Kamil\source\repos\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.Form1.resources
+C:\Users\Kamil\source\repos\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.Properties.Resources.resources
+C:\Users\Kamil\source\repos\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.csproj.GenerateResource.cache
+C:\Users\Kamil\source\repos\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.exe
+C:\Users\Kamil\source\repos\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.pdb
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\Check_PESEL\Check_PESEL\bin\Debug\Check_PESEL.exe.config
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\Check_PESEL\Check_PESEL\bin\Debug\Check_PESEL.exe
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\Check_PESEL\Check_PESEL\bin\Debug\Check_PESEL.pdb
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.Form1.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.Properties.Resources.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.exe
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\Check_PESEL\Check_PESEL\obj\Debug\Check_PESEL.pdb

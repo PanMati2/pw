@@ -1,0 +1,20 @@
+C:\Users\Kamil\source\repos\BMR\BMR\bin\Debug\BMR.exe.config
+C:\Users\Kamil\source\repos\BMR\BMR\bin\Debug\BMR.exe
+C:\Users\Kamil\source\repos\BMR\BMR\bin\Debug\BMR.pdb
+C:\Users\Kamil\source\repos\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\BMR\BMR\obj\Debug\BMR.Form1.resources
+C:\Users\Kamil\source\repos\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+C:\Users\Kamil\source\repos\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+C:\Users\Kamil\source\repos\BMR\BMR\obj\Debug\BMR.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\BMR\BMR\obj\Debug\BMR.exe
+C:\Users\Kamil\source\repos\BMR\BMR\obj\Debug\BMR.pdb
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\BMR\BMR\bin\Debug\BMR.exe.config
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\BMR\BMR\bin\Debug\BMR.exe
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\BMR\BMR\bin\Debug\BMR.pdb
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\BMR\BMR\obj\Debug\BMR.Form1.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\BMR\BMR\obj\Debug\BMR.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\BMR\BMR\obj\Debug\BMR.exe
+C:\Users\Mati\Desktop\Programowanie wizualne\repo kamila\pw-master\lab03\BMR\BMR\obj\Debug\BMR.pdb
